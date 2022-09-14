@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    align-items:center;
+    justify-content:flex-start space-around;
+    
+}
+
+.item-one {
+    height: 150px;
+    width: auto;
+}
+
+.item-two {
+    height: 150px;
+    width: auto;
+}
+
+.item-three {
+    height: 200px;
+    width: auto;
+}
+
+.item-four {
+    height: 150px;
+    width: auto;
+}

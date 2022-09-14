@@ -1,0 +1,20 @@
+* {
+    background-color: rgb(91, 91, 91);
+}
+
+.landing-picture {
+    align-items: center;
+    display: block;
+    justify-content: center;
+    margin: auto;
+    width: auto;
+    height: 300px;
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: red
+}
